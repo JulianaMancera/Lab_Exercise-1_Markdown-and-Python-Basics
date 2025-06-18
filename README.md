@@ -1,1 +1,1 @@
-# Lab_Exercise_1_Markdown-and-Python-Basics
+# Lab Exercise 1 Markdown and Python Basics
